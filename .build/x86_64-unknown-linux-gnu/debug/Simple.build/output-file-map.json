@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/main.swift": {
+    "dependencies": "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

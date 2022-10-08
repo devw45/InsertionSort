@@ -1,0 +1,7 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "bb4a94a12ff7ec22b2e1f1ade65daf121ef7715d8d60c7fdd4f1dc513cb662d4"
+build_start_time: [1665182541, 587980985]
+build_end_time: [1665182542, 597941875]
+inputs:
+  "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/InerstionSort.swift": !private [1664819573, 793150424]
+  "/home/devin-wingfield/Digital Portfolio/CS-II/Projects/InsertionSort/[Swift]/main.swift": !private [1664817384, 967257976]
